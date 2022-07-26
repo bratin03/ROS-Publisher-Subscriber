@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+9376cc5be90616da1a4157a5adffb266 /home/bratin/catkin_ws/task1/devel/share/roseus/ros/pkg1/manifest.l
+86455edba25375f86a9ff2269ff26238 CMakeFiles/clean_test_results
+ee11683a89464ba4377d2d351692f35a pkg1/CMakeFiles/pkg1_generate_messages_eus
